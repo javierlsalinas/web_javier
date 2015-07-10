@@ -1,0 +1,14 @@
+/*
+Autor: Javier Lucero Salinas
+Empresa: CICE
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{font-family: sans-serif;}
+ul{list-style: none;}
+a{text-decoration: none;}
